@@ -1,0 +1,116 @@
+/* registration.css */
+
+/* Style for the container */
+.registration-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Style for the heading */
+  .registP {
+    text-align: center;
+  }
+  
+  /* Style for the form */
+  .registration-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Style for form inputs */
+  .registration-form label {
+    margin-bottom: 5px;
+  }
+  
+  .registration-form input {
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Style for the submit button */
+  .registration-form button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  /* Style for the success message */
+  .success-message {
+    margin-top: 20px;
+    padding: 10px;
+    background-color:#d0e9c6;;
+    border: 1px solid #d0e9c6;
+    border-radius: 4px;
+    text-align: center;
+  }
+  
+  /* Style for the logout button */
+  .logout-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  .regist-label1{
+    margin-right: 20px;
+    padding-right: 10px;
+
+  }
+  .regist-input1{
+margin-left: 20px;
+padding-left: 20px;
+  }
+  .regist-label2{
+    margin-right: 10px;
+    padding-right: 10px;
+
+  }
+  .regist-input2{
+    margin-left: 20px;
+    padding-left: 20px;
+  }
+  .regist-label3{
+    margin-right: 35px;
+    padding-right: 10px;
+
+  }
+  .regist-input3{
+    margin-left: 20px;
+    padding-left: 20px;
+  }
+  .regist-label4{
+    margin-right: 10px;
+    
+
+  }
+  .regist-input4{
+    margin-left: 20px;
+    padding-left: 20px;
+  }
+  .regist-label5{
+    margin-right: 10px;
+    padding-right: 10px;
+
+  }
+  .regist-input5{
+    margin-left: 20px;
+    padding-left: 20px;
+  }
+  

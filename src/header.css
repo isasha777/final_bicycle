@@ -1,0 +1,42 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  .menu-ul{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: center;
+    padding: 0;
+    background-color: skyblue;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  
+  .menu-item {
+    margin: 0 10px;
+  }
+  .menu-item2{
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  
+  .menu-item button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  .menu-a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+  }
+  
+  
